@@ -31,9 +31,9 @@ odin-recipes/
 
 ## Getting Started
 
-1. Clone the repository:
+1. Clone the repository (replace with your fork URL if needed):
    ```bash
-   git clone https://github.com/muhammad-asif10/odin-recipes.git
+   git clone https://github.com/<your-username>/odin-recipes.git
    ```
 2. Open the project folder.
 3. Launch `index.html` in your browser.
